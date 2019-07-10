@@ -16,6 +16,7 @@
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://tsubik.github.io/test-app-deploy",
   "eslintConfig": {
     "extends": "react-app"
   },
