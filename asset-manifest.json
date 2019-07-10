@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/test-app-deploy/static/css/main.2cce8147.chunk.css",
-    "main.js": "/test-app-deploy/static/js/main.574e8d26.chunk.js",
-    "main.js.map": "/test-app-deploy/static/js/main.574e8d26.chunk.js.map",
-    "runtime~main.js": "/test-app-deploy/static/js/runtime~main.b7b8a50d.js",
-    "runtime~main.js.map": "/test-app-deploy/static/js/runtime~main.b7b8a50d.js.map",
-    "static/js/2.b41502e9.chunk.js": "/test-app-deploy/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/test-app-deploy/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/test-app-deploy/index.html",
-    "precache-manifest.a68a8fe3e4a5b3f779f186b93ba1c01d.js": "/test-app-deploy/precache-manifest.a68a8fe3e4a5b3f779f186b93ba1c01d.js",
-    "service-worker.js": "/test-app-deploy/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/test-app-deploy/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/test-app-deploy/static/media/logo.5d5d9eef.svg"
+    "main.css": "https://tsubik.com/test-app-deploy/static/css/main.2cce8147.chunk.css",
+    "main.js": "https://tsubik.com/test-app-deploy/static/js/main.fd0c02da.chunk.js",
+    "main.js.map": "https://tsubik.com/test-app-deploy/static/js/main.fd0c02da.chunk.js.map",
+    "runtime~main.js": "https://tsubik.com/test-app-deploy/static/js/runtime~main.109b5de5.js",
+    "runtime~main.js.map": "https://tsubik.com/test-app-deploy/static/js/runtime~main.109b5de5.js.map",
+    "static/js/2.b41502e9.chunk.js": "https://tsubik.com/test-app-deploy/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "https://tsubik.com/test-app-deploy/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "https://tsubik.com/test-app-deploy/index.html",
+    "precache-manifest.66ac145df47d4da4e3034f90754f069b.js": "https://tsubik.com/test-app-deploy/precache-manifest.66ac145df47d4da4e3034f90754f069b.js",
+    "service-worker.js": "https://tsubik.com/test-app-deploy/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "https://tsubik.com/test-app-deploy/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "https://tsubik.com/test-app-deploy/static/media/logo.5d5d9eef.svg"
   }
 }
